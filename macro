@@ -1,0 +1,147 @@
+United States (USD)
+Policy & macro data (front‑end driver)
+
+Fed policy rate: held at 4.25–4.50% at the July meeting; statement didn’t pre‑commit to cuts. Markets now price a September cut after softer data. 
+Reuters
++1
+
+Inflation: July CPI +0.2% m/m, 2.7% y/y; core 3.1% y/y—good enough to keep a Sept cut on the table, but tariffs are showing up in tariff‑sensitive goods. 
+Reuters
++1
+
+Labor market: July payrolls +73k, unemployment 4.2%, plus downward revisions to prior months—clear cooling that’s pushed the market toward sooner easing. 
+Reuters
+
+Balance sheet / liquidity (front‑end plumbing)
+
+QT slowed (Mar): the Fed reduced the pace of balance‑sheet run‑off, explicitly to manage liquidity—important for o/n rates, repo, and OIS/funding spreads. Officials subsequently signaled they can run QT to a “natural” end at a slower clip. 
+Reuters
++1
+
+Curve & long‑end (swaps desk drivers)
+
+Supply & term premium: strategists expect heavy Treasury issuance in H2 (potentially up to ~$1T) and widening deficits (new tax/spending bill) to lean upward on long yields even as the front‑end prices cuts. 
+Reuters
++1
+
+Forecasts: surveys through July/Aug point to range‑bound yields near‑term but with risk of mild bear‑steepening on tariffs + supply. 
+Reuters
++1
+
+Volatility: despite politics/tariffs, rates vol (MOVE) has sagged to multi‑year lows—important for options/convexity supply. 
+Reuters
+
+Bottom line for trading
+
+STIRT: meeting‑dated SOFR OIS now mostly a labor‑led cuts trade (cooling jobs + acceptable inflation). Watch CPI/PCE and payrolls for repricing of the next 1–2 meetings. 
+Reuters
++1
+
+Swaps: balance Fed easing vs. heavy duration supply; tariffs risk higher long‑run inflation term premium, nudging steeper curves even if the front‑end eases. 
+Reuters
+
+Euro area (EUR)
+Policy & macro data
+
+ECB: after a year of easing (deposit rate cut down to 2.0%), the ECB paused in July and signaled a high bar for further 2025 cuts. Markets trimmed cut odds into September. 
+Reuters
++2
+Reuters
++2
+
+Inflation: headline running near 2% (July around target); core roughly stable—giving the Governing Council cover to sit pat while watching trade‑war headlines. 
+Reuters
++1
+
+Balance sheet / technicals
+
+PEPP reinvestments ended at end‑2024; ECB no longer a systematic buyer—changes the net supply/term‑premium mix through 2025. 
+European Central Bank
+
+Primary markets: despite less ECB support, syndications were very well bid in January; more recently official institutions’ buying rose—both relevant for ASW and relative‑value vs swaps. 
+Reuters
++1
+
+Bottom line for trading
+
+STIRT: with inflation at target and the ECB on hold, meeting‑dated €STR OIS is now about timing/size of any additional cuts vs the tariff/growth backdrop. The ECB has raised the bar—carry/roll dominates unless data break. 
+Reuters
+
+Swaps: removal of ECB reinvestments + decent gross sovereign supply keeps ASW dynamics interesting; relative value to USTs can swing with trade news and growth surprises. 
+Reuters
+
+United Kingdom (GBP)
+Policy & macro data
+
+BoE: cut Bank Rate to 4.0% on Aug 7 by a razor‑thin vote; minutes showed a divided MPC and markets pared the pace of further 2025 cuts. 
+Reuters
++1
+
+Inflation: UK CPI re‑accelerated to 3.6% y/y in June, keeping UK above the U.S./euro area; wage growth ~5% and hiring cooling—an awkward mix that explains the split vote. 
+Reuters
++1
+
+Expectations: Citi/YouGov short‑term inflation expectations nudged up in July—sticky expectations slow the easing path. 
+Reuters
+
+Supply, QT & market structure
+
+Gilt remit 2025/26: ~£299bn issuance; shift away from long‑dated supply toward the short bucket—directly affects curve shape and long ASW. 
+Reuters
++1
+
+BoE QT: active QT continues; BoE estimates QT has lifted 10y gilt yields by ~15–25bp (some argue more). Discussion about slowing QT and/or dialing back long‑dated sales has intensified. 
+Reuters
++2
+Reuters
++2
+
+Bottom line for trading
+
+STIRT: UK front‑end is a tug‑of‑war—cooling activity vs still‑elevated CPI and wages. Meeting‑dated SONIA trades are sensitive to wage, services CPI, PMIs. 
+Reuters
++1
+
+Swaps: QT + remit mix and sticky inflation risk keep UK term premium relatively punchy vs EUR; watch ASW (supply, LDI demand, QT pace) and 5s10s/10s30s for steepening risk if the BoE cuts while supply/QT lean the other way. 
+Reuters
++1
+
+Cross‑market themes to keep in your head on the desk
+“Cuts up front, supply in the back.” U.S. and UK markets price front‑end easing on cooling growth, but heavy sovereign issuance/QT and tariff uncertainty can prop up the long end → bias to curve steepening on shocks. 
+Reuters
++1
+
+Tariffs = asymmetric risk. In the U.S. (and via spillover to Europe), tariffs add sticky goods inflation risk even as growth softens—keeps term premium from collapsing. 
+Reuters
+
+Liquidity/vol: Fed slowed QT, o/n plumbing stable; MOVE at multi‑year lows—carry/roll trades have worked, but low vol = fragility if a shock hits (tariff escalation, weak payrolls, EU‑US trade headlines). 
+Reuters
++1
+
+ECB on hold, BoE divided, Fed poised. ECB’s bar for more cuts is high; BoE is split with inflation still > target; the Fed is closest to a first cut (data‑dependent). That’s your relative‑value framework for USD‑EUR‑GBP front‑end. 
+Reuters
++2
+Reuters
++2
+
+How to use this tomorrow
+On STIRT, translate each new data point into meeting‑dated OIS moves (how many bp cut/hike implied) and probability trees.
+
+On Swaps, map headlines to curve shape (steepener vs flattener), ASW (supply/QT vs demand), and cross‑market RV (UST vs Bund vs Gilt).
+
+For basis/FX‑rates crossover, watch funding prints and quarter‑end dynamics—tariff/collateral shocks hit short‑end basis first.
+
+If you want, I can turn this into a 1‑page cheat sheet with the current policy levels, next‑meeting dates, and “what moves the strip” for each region so you can keep it on screen.
+
+
+
+
+
+
+
+
+
+
+Sources
+
+Ask ChatGPT
