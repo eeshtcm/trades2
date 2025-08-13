@@ -1,0 +1,227 @@
+1. Economic Activity & Sentiment
+Recent data signals a slowdown:
+
+June and July sentiment indicators were downbeat.
+
+FGV industrial confidence fell.
+
+Manufacturing PMI slightly above 48 — consistent with contraction (~-3% y/y output pace). This is a sharp slowdown from ~4% growth last year.
+
+Weakness already visible in 2Q production numbers.
+
+Services PMI dropped 3 points to 46.3 — weakest since 2021.
+
+Outlook for 2Q GDP:
+
+Anticipated weak services output in June → first decline since Jan.
+
+Negative carry-over from Q2 to Q3 of ~-1% q/q saar.
+
+Retail sales expected to recover somewhat in June, but still imply a drop in quarterly consumer goods sales.
+
+Overall: 2Q GDP tracking slightly below previous forecasts.
+
+2. Drivers of Weakness
+Contradictory macro forces:
+
+Labour market still tight with high household savings — normally supportive for demand.
+
+BUT corporate balance sheets are weakening, especially under the strain of high interest rates.
+
+Debt service ratio (DSR) elevated — near cycle highs.
+
+External & policy factors:
+
+De-escalation of U.S. tariff tensions last week, but tariffs still seen as a net negative demand shock.
+
+Global slowdown could amplify domestic deceleration.
+
+3. Inflation & Monetary Policy
+Inflation trends:
+
+Headline inflation has moderated over the past three months, back within target range for first time in over a year.
+
+Services CPI still “uncomfortably high” but easing since late 2024.
+
+Policy stance:
+
+BCB rhetoric remains hawkish (“high for long”), signalling cuts not imminent.
+
+One board member suggested pause in hiking cycle is temporary, with possible later resumption.
+
+Forecast:
+
+Cuts could start as early as Dec 2025 with an initial 25bp, followed by back-to-back cuts to reach ~10.75% Selic by end-2026.
+
+This path is earlier and deeper than market consensus.
+
+4. Fiscal & Political Landscape
+Political backdrop:
+
+Domestic political polarisation increased — protests in both Lower House and Senate following house arrest of former president Jair Bolsonaro.
+
+Congressional leadership assures no obstruction to legislation, but limited clarity on near-term agenda.
+
+Fiscal policy constraints:
+
+Little scope for large budget stimulus given fiscal targets and political division.
+
+Possible targeted measures to offset U.S. tariffs:
+
+Employment protection programs.
+
+Financial support and government purchases of affected products.
+
+These are expected to pass without major resistance, but their macro impact is limited.
+
+Budget timing:
+
+Slightly higher 2025 spending likely, but no major disruption to budget execution this year.
+
+2026 budget proposal due in late August — substantial disbursements would require legal changes, making rapid fiscal expansion unlikely.
+
+Peak political tensions expected in Q4 2025 during budget debates ahead of the 2026 election year.
+
+5. Market Implications from the Note
+Growth: Domestic slowdown clearly underway and likely to persist into H2 2025.
+
+Rates:
+
+Softer growth + moderating inflation = room for BCB to cut earlier and deeper than priced.
+
+Hawkish rhetoric is a communications tactic to avoid premature market loosening.
+
+Curve dynamics:
+
+Front end (2y) sensitive to earlier-than-expected cuts → downward pressure.
+
+Long end (10y+) sticky due to fiscal credibility concerns, political noise, and possible global term premia.
+
+FX: Slower cuts than the market hopes for in the short term may limit BRL volatility; global risk sentiment will still matter.
+
+Does This Align with the Brazil 2s10s Steepener vs. Utilities Trade?
+Yes — strongly.
+
+Rates leg:
+
+Front end → likely to fall when BCB begins cuts in Dec 2025 or earlier if slowdown deepens faster.
+
+Long end → supported by fiscal risk, political uncertainty, and possible external rate stickiness → curve steepening bias.
+
+Equities leg (utilities):
+
+Utilities are domestic, rate-sensitive, and defensive — benefit from cheaper financing costs when front end falls.
+
+In a slowing economy, defensive yield sectors like utilities tend to outperform cyclicals.
+
+Timing note:
+
+
+
+
+
+
+charts:
+1. Brazil 2s10s Steepener vs Long Utilities
+(A) Brazil 2s10s Swap Spread
+
+What: BZDISS10 Index - BZDISS02 Index (or DI futures spread).
+
+Why: Shows curve shape and whether we’re currently inverted/flat — sets up steepening narrative.
+
+Bloomberg: Use GP <GO> to plot the spread over time.
+
+(B) Selic Rate vs. BCB Policy Expectations
+
+What: Actual Selic (BZSELIC Index) vs OIS forward curve.
+
+Why: Shows market pricing vs. report’s earlier/deeper cuts call — highlights potential re-pricing trigger.
+
+Bloomberg: WIR for OIS, overlay with BZSELIC.
+
+(C) Brazil PMI – Manufacturing & Services
+
+What: PMI Manufacturing (BRPMIMAN Index) & Services (BRPMISER Index).
+
+Why: Macro slowdown evidence — supports case for cuts.
+
+Source: Markit/JP Morgan PMI via Bloomberg.
+
+(D) Debt Service Ratio vs. Real Policy Rate
+
+What: DSR (from BIS/BCB) vs Selic deflated by inflation expectations.
+
+Why: Shows high real rates squeezing corporates — justifies cuts.
+
+Source: BCB/BIS data or from research slide in note.
+
+(E) Bovespa Utilities Index vs. 2s10s Spread
+
+What: IBXXUTIL Index vs (BZDISS10 - BZDISS02).
+
+Why: Visual correlation between curve steepening and utilities outperformance.
+
+2. U.S. 2s10s Steepener vs Long Regional Banks
+(A) U.S. 2s10s Treasury Spread
+
+What: USYC2Y10 Index.
+
+Why: Shows record inversion and historical steepening post-Fed cycle peaks.
+
+Overlay: Highlight prior Fed cutting cycles.
+
+(B) Fed Funds Futures Implied Path
+
+What: FF<month><year> Comdty.
+
+Why: Compare market pricing for cuts vs. historical easing lags after peak rates.
+
+(C) Term Premium in 10y Treasuries
+
+What: ACM Term Premium (ACMTP10 Index).
+
+Why: Show contribution of supply/term premium to long-end yields — supports bear/bull steepener discussion.
+
+(D) Regional Banks Index vs. 2s10s Spread
+
+What: KRX Index (KBW Regional Banks) or KRE US Equity vs USYC2Y10.
+
+Why: Demonstrates link between curve steepness and bank profitability.
+
+(E) Bank Net Interest Margin vs. 2s10s
+
+What: FDIC NIM series vs curve spread.
+
+Why: Hard data linking NIM expansion to curve shape.
+
+3. Japan JGB 5s30s Steepener vs Long Topix Banks
+(A) Japan 5s30s JGB Spread
+
+What: JGBS5 Curncy - JGBS30 Curncy or swap equivalents (JSY5 BGN Curncy - JSY30 BGN Curncy).
+
+Why: Shows curve shape pre- and post-YCC adjustments.
+
+(B) BoJ Policy Rate & Inflation
+
+What: BOJDTR Index vs CPI (JNCPIYOY Index).
+
+Why: Justifies tightening bias from BoJ.
+
+(C) Japan Wage Growth vs CPI
+
+What: Labour cash earnings (JELCTYOY Index) vs CPI.
+
+Why: Wage growth >2% is new for Japan — supports sustained inflation narrative.
+
+(D) Japanese Banks Index vs. 5s30s
+
+What: TPXBANKS Index vs 5s30s spread.
+
+Why: Shows relationship between curve steepness and bank equity performance.
+
+(E) JGB Issuance Profile (Long-End Supply)
+
+What: MoF issuance by maturity.
+
+Why: Highlights supply pressures on long end as YCC ends.
+The call for cuts only from Dec 2025 means steepener PnL may be gradual until market repricing happens. Positioning early could be a carry cost, but increases potential upside when narrative shifts.
