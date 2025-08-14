@@ -1,0 +1,89 @@
+1. “How do you separate macro-driven breakeven moves from flow-driven moves?”
+Why it’s smart: Shows you understand that not all price action comes from fundamentals — client flows, auctions, and repo specials can distort prices.
+What you’ll learn: How traders use indicators (e.g., real yield changes, energy moves, flow trackers) to attribute moves.
+
+2. “When you trade a breakeven view, how do you decide between expressing it in swaps vs linkers?”
+Why it’s smart: This gets at the instrument choice decision — liquidity, basis risk, balance sheet use, carry, repo.
+What you’ll learn: How desks weigh cash–swap basis, balance sheet constraints, and execution costs.
+
+3. “What role do carry and seasonality play in your short-term P&L planning?”
+Why it’s smart: Carry and seasonality are huge in inflation trading, especially for YoY swaps.
+What you’ll learn: How the desk calculates expected carry from index lags, base effects, and seasonal patterns — and how that shapes positioning even without a macro view.
+
+4. “How do you think about hedging real-rate risk when running a breakeven trade?”
+Why it’s smart: Shows you know breakevens combine nominal and real yields — unhedged, you’re taking both.
+What you’ll learn: Which instruments (nominal bonds, IRS, futures) they use to neutralise real-rate DV01.
+
+5. “How do energy markets feed into your inflation pricing models?”
+Why it’s smart: Energy (especially oil and gas) is a key short-term driver of headline CPI.
+What you’ll learn: How traders map oil futures curves and gasoline cracks into CPI forecasts, and which months in the index they hit.
+
+6. “What’s the biggest difference in trading near-term inflation vs long-term inflation expectations?”
+Why it’s smart: It signals you understand that short maturities are about known prints & carry, while long maturities reflect structural macro views.
+What you’ll learn: The different risks (e.g., liquidity, macro data vs pension flows) and how curve trades are set up.
+
+7. “How do you monitor and trade the cash–swap breakeven basis?”
+Why it’s smart: The cash–swap basis is an active RV area — repo, collateral, and liquidity all matter.
+What you’ll learn: How to spot rich/cheap linkers vs swaps and when it’s worth trading the basis.
+
+8. “What’s your process for updating your inflation forecast after each CPI print?”
+Why it’s smart: It’s practical and touches their daily workflow.
+What you’ll learn: How quickly they incorporate data into models, and how they use surprises vs consensus to adjust trades.
+
+9. “How does the index lag and interpolation convention affect pricing in swaps?”
+Why it’s smart: Lags are a technical but crucial part of swap PV.
+What you’ll learn: How a trader values swaps with 2–3 month publication lags and how that changes near-term pricing.
+
+10. “When deciding on a curve trade (e.g., 5s10s breakeven steepener), what makes you confident it’s dislocated?”
+Why it’s smart: Gets into their framework for term structure RV — whether they compare to macro drivers, historical ranges, or carry-adjusted levels.
+What you’ll learn: How they think about curve “fair value” and timing.
+
+1. “How do you model and apply the convexity adjustment between ZCIS and YoY swaps?”
+Why it’s technical: Zero-coupon inflation swaps (ZCIS) and Year-on-Year swaps aren’t directly comparable — YoY embeds compounding and seasonal convexity.
+
+What you’ll learn: How they adjust YoY forwards to match ZC pricing, and the size of that adjustment in current markets.
+
+2. “What’s the current market-implied forward CPI path from the ZCIS curve, and how do you strip it?”
+Why it’s technical: Stripping forward inflation from ZCIS par rates involves bootstrapping and discounting, plus index lag adjustments.
+
+What you’ll learn: How they translate swap quotes into month-by-month CPI forecasts.
+
+3. “How do you compute breakeven DV01 and inflation convexity for a given maturity?”
+Why it’s technical: Inflation DV01 is the sensitivity to a 1bp move in the breakeven rate, which depends on maturity, discount factors, and indexation.
+
+What you’ll learn: The desk’s rule-of-thumb DV01s for key points, and how convexity risk is tracked in risk systems.
+
+4. “When pricing inflation swaps, how do you handle the index publication lag and daily interpolation?”
+Why it’s technical: These conventions shift the PV of near-term swaps because part of the index path is already fixed and part is floating.
+
+What you’ll learn: How they separate known vs unknown CPI in pricing models.
+
+5. “How do you adjust breakeven levels for carry when comparing points on the curve?”
+Why it’s technical: Raw breakevens can be misleading if one maturity has heavy positive/negative carry from base effects or seasonality.
+
+What you’ll learn: How to compute carry-adjusted breakevens, and when they override headline levels.
+
+6. “How do you back out the cash–swap breakeven basis and decompose what’s driving it?”
+Why it’s technical: Basis = cash BEI – swap BEI. It can move due to repo specials, collateral discounting, bond liquidity, or convexity.
+
+What you’ll learn: Which technicals are most important now, and whether they’re trading that basis.
+
+7. “How do you manage inflation basis risk across currencies (e.g., EUR HICPxT vs French CPI)?”
+Why it’s technical: Different inflation indices have slightly different dynamics; basis swaps trade that spread.
+
+What you’ll learn: How they measure and hedge cross-index correlation risk.
+
+8. “What inputs do you use to forecast the next 12 months of CPI, and how do you translate that into a trade?”
+Why it’s technical: Traders often build bottom-up forecasts from energy curves, food prices, wages, core services.
+
+What you’ll learn: How they link fundamental forecasts to specific maturities and instruments.
+
+9. “How do you estimate the real-rate component in a linker price given current swap and OIS curves?”
+Why it’s technical: Real yield = nominal yield – breakeven; but discounting, asset-swap spreads, and liquidity premiums complicate the decomposition.
+
+What you’ll learn: How they strip real rates from market prices consistently.
+
+10. “How do you think about gamma and vega in inflation options, and what’s the smile/skew telling you now?”
+Why it’s technical: Inflation caps/floors have different implied vol smiles depending on deflation risk vs upside tails.
+
+What you’ll learn: How option vol markets are pricing inflation tail risks.
