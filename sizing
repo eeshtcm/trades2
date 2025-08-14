@@ -1,0 +1,143 @@
+1. Establishing DV01 Benchmarks
+We need DV01 (i.e. dollar value of a one basis point move) estimates for the 2-year and 10-year U.S. Treasuries:
+
+The 10-year U.S. Treasury has a DV01 of approximately $76.55 per $1 million par 
+Quizlet
++3
+YouTube
++3
+AnalystPrep
++3
+Quizlet
++10
+CME Group
++10
+CME Group
++10
+.
+
+The 2-year U.S. Treasury has a DV01 of approximately $36.97 per $1 million par 
+CME Group
+.
+
+Therefore, for every $1 million in notional:
+
+10-year gives ~$76.55 per bp,
+
+2-year gives ~$36.97 per bp.
+
+The steepener DV01 (10y long, 2y short) is the difference:
+
+𝐷
+𝑉
+01
+𝑠
+𝑝
+𝑟
+𝑒
+𝑎
+𝑑
+=
+76.55
+−
+36.97
+=
+$39.58
+ 
+per
+ 
+bp
+ 
+per
+ 
+$1M
+ 
+notional
+DV01 
+spread
+​
+ =76.55−36.97=$39.58 per bp per $1M notional
+So a $1M position in the spread yields ~$39.6 of P&L per basis point move.
+
+2. Translating DV01 into Risk Sizing
+You want balanced risk exposure between the equity (KRE) component and the rates spread.
+
+A. Define your desired P&L sensitivity
+Let’s say you want the steepener to move $X for every 1 bp change in the spread.
+
+Example: if you consider a 20 bp adverse move in the spread could cost you $500k, then:
+
+Needed notional
+=
+500
+,
+000
+39.58
+×
+20
+×
+1
+,
+000
+,
+000
+=
+500
+,
+000
+791.6
+≈
+$
+632
+𝑀
+Needed notional= 
+39.58×20
+500,000
+​
+ ×1,000,000= 
+791.6
+500,000
+​
+ ≈$632M
+That’s the notional you'd need for that DV01 exposure.
+
+B. Match equity leg with comparable risk
+Say you anticipate KRE could move ±10% in your timeframe. If you want symmetric $500k P&L expectation:
+
+KRE notional
+=
+500
+,
+000
+10
+%
+=
+$
+5
+𝑀
+KRE notional= 
+10%
+500,000
+​
+ =$5M
+So equity leg notional would be about $5M.
+
+3. Example Sizing Table
+Leg	DV01 per $1M	Threshold Move	Sensitivity / $M Notional	Resulting Risk (± move)
+Rates “10y–2y”	$39.58/bp	20 bp	$39.58 × N (in millions)	$39.58 × 20 × (N/1M)
+Example: N=$632M	—	—	~$25k per bp	~$500k
+KRE Equity Leg	—	±10%	N × 10%	$500k if N=$5M
+
+4. Summary Recommendation
+Desired risk per leg: ~$500k (or your chosen threshold).
+
+Rates leg (steepener): ~$632 million notional (duration-weighted) achieves ~$500k risk for a 20 bp adverse steepener move.
+
+Equity leg (KRE): ~$5 million notional makes a 10% KRE move equal $500k.
+
+Thus you balance both legs fairly in terms of expected P&L impact, making your trade size coherent across asset classes.
+
+Want to adjust?
+For a lower risk budget (say $250k per leg), halve both notional estimates (~$316M steepener, $2.5M KRE).
+
+If your conviction differs—say you're more certain on steepening vs KRE—you could instead risk-weight it 2:1 or similar.
